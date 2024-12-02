@@ -1,0 +1,18 @@
+﻿  algo.cpp
+C:\Users\bersi\source\repos\algo\algo\algo.cpp(51,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\bersi\source\repos\algo\algo\algo.cpp(111,19): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\bersi\source\repos\algo\algo\algo.cpp(114,20): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\bersi\source\repos\algo\algo\algo.cpp(117,20): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  algo.vcxproj -> C:\Users\bersi\source\repos\algo\x64\Debug\algo.exe
